@@ -34,6 +34,16 @@ img {
   object-fit: cover;
 }
 
+.section {
+  padding: 120px 0;
+}
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+/* Header */
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -44,16 +54,6 @@ img {
   align-items: center;
   height: 72px;
   background: #fff;
-}
-
-.section {
-  padding: 120px 0;
-}
-
-.container {
-  width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
 }
 
 .webstudio {
@@ -128,7 +128,7 @@ img {
   text-decoration: none;
   color: #404bbf;
 }
-
+/* Section 1 */
 .main-section {
   background-color: #2e2f42;
   text-align: center;
@@ -179,7 +179,7 @@ img {
   color: #fff;
   background: #404bbf;
 }
-
+/* Section 2 */
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -224,7 +224,7 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+/* Section 3 */
 .team {
   background: #f4f4fd;
   padding: 120px 0;
@@ -284,7 +284,7 @@ img {
   text-align: center;
   color: #434455;
 }
-
+/* Our Portfolio */
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -341,7 +341,7 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+/* Footer */
 .footer {
   background: #2e2f42;
   padding-top: 100px;
