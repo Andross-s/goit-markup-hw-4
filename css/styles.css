@@ -228,15 +228,16 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 112px;
   border: 1px solid #8e8f99;
   border-radius: 4px;
-  background: #f4f4fd;
+  background-color: #f4f4fd;
+  height: 112px;
 }
+
 .features-icon {
-  justify-content: center;
-  align-items: center;
-  display: flex;
+  margin: 0;
+  width: 64px;
+  height: 64px;
 }
 
 .features-title {
